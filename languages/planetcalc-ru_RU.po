@@ -1,0 +1,6 @@
+#: planetcalc.php:23
+msgid "Created on %s"
+msgstr "Создано на %s"
+#: planetcalc.php:30
+msgid "Wrong PLANETCALC shortcut. Please visit %s, to obtain a correct wordpress shortcut."
+msgstr "Неверный код вставки виджета PLANETCALC. Пожалуйста посетите %s, для получения корректного кода вставки."
